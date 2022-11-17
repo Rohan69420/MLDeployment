@@ -1,4 +1,3 @@
-#!/usr/bin/env python3.8
 from flask import Flask,request
 from flask_restful import Resource, Api
 import pickle
